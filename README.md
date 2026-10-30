@@ -51,4 +51,4 @@ Lastly, the icons were exported from Figma as PNG images, and the links get an u
     └── github.png
 ```
 
-To see the website, open `index.html` in any web browser. No installation or build step is needed.
+To see the website, open `https://u6106247.github.io/Personal-cv/` in any web browser. No installation or build step is needed.
