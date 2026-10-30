@@ -1,5 +1,6 @@
 # HYPERMEDIA PROJECT, PT. 1: Documentation
-
+**Author:** David Soler Flores  
+**UdG Code:** u6106247  
 ## Project analysis
 
 ### 1. User profile
